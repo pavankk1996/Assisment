@@ -1,0 +1,27 @@
+.profileImage{
+    width: 126px;
+    height: 104px;
+    border-radius: 50%;
+    margin-left: 40%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.hedar-text{
+    font-size: 20px;
+}
+.body_Text{
+    
+    font-size: 15px;
+    color: black;
+    line-height: 18px;
+    font-family: -webkit-pictograph;
+    padding: 20px;
+    
+}
+.card-header.text-center.hedar-text {
+    background-color: #3c8449;
+    color: white;
+}
+.about-profile {
+    background-color: white;
+}

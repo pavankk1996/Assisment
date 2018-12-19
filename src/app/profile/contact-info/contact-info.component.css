@@ -1,0 +1,26 @@
+.contact_Header-Text{
+    font-size: 20px;
+}
+.user-icon {
+    margin-left: 15px;
+    padding-top: 11px;
+}
+.calender-icon{
+    margin-left: 15px;   
+}
+.phoneIcon{
+    margin-left: 15px; 
+}
+.mailIcon{
+    margin-left: 15px; 
+}
+.homeIcon{
+    margin-left: 15px; 
+}
+.contact_Header-Text {
+    background-color: green;
+    color: white;
+}
+.contact-info {
+    background-color: white;
+}

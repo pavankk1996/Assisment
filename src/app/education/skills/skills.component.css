@@ -1,0 +1,21 @@
+.project-Header-Text{
+    font-size: 20px;
+    background-color: #368449;
+    color: white;
+   
+}
+.project-title {
+    padding: 10px;
+    color: black;
+    font-family: -webkit-pictograph;
+    line-height: 17px;
+}
+.objective-text {
+    padding: 10px;
+    color: black;
+    line-height: 16px;
+    font-family: -webkit-pictograph;
+}
+.card-body {
+    background-color: white;
+}

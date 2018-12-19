@@ -1,0 +1,30 @@
+.schoolHederText{
+    font-size: 20px;
+}
+.high-school {
+    line-height: 12px;
+    margin-left: 20px;
+    padding-top: 10px;
+    color: black;
+    
+}
+.pre-univercity{
+    line-height: 12px;
+    margin-left: 20px;
+    padding-top: 10px;
+    color: black;
+}
+.Be{
+    line-height: 12px;
+    margin-left: 20px;
+    padding-top: 10px;
+    color: black;
+    padding-bottom: 15px;
+}
+.schoolHederText {
+    background-color: #3c8449;
+    color: white;
+}
+.card-school {
+    background-color: white;
+}
